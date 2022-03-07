@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e575ede.css",
-    "main.js": "/static/js/main.44bcd2e4.js",
+    "main.css": "/static/css/main.f3e1bf27.css",
+    "main.js": "/static/js/main.630f4974.js",
     "static/media/map.png": "/static/media/map.924ca632a41ea79a6c23.png",
     "static/media/chat.png": "/static/media/chat.ee72b47b797572a53601.png",
     "static/media/detail.png": "/static/media/detail.3d69b8d9e38be40095f9.png",
+    "static/media/swap.png": "/static/media/swap.dbfe66a720c27b3c8e31.png",
     "static/media/greenbook.gif": "/static/media/greenbook.c54e0c2d9e3dee027a75.gif",
+    "static/media/swap2.png": "/static/media/swap2.ddd589ac742e4f4e3d8b.png",
     "static/media/book.png": "/static/media/book.916454b31a379db2ec0a.png",
     "static/media/lockcheck.png": "/static/media/lockcheck.5c5ae28faea379d31318.png",
     "static/media/lock.png": "/static/media/lock.04345bb867323caaf78f.png",
     "static/media/iconred.png": "/static/media/iconred.2a30240274357b59a935.png",
     "static/media/Dongnebook.svg": "/static/media/Dongnebook.4a0d2646742d4c9e91d229bb7c0e7535.svg",
-    "static/media/Chat_icon.svg": "/static/media/Chat_icon.7bd659dc6a6f418b21dccba4a868f00f.svg",
-    "static/media/Location.svg": "/static/media/Location.1f690d3dd600877b8ba753eb225dad5e.svg",
-    "static/media/Chat.svg": "/static/media/Chat.c0085c16e1fba201fad0870887b72899.svg",
+    "static/media/Chat_icon.svg": "/static/media/Chat_icon.247c1b0a00ecf006c100640fe048e7e5.svg",
+    "static/media/Location.svg": "/static/media/Location.b82851aa5176440083d875090986f41d.svg",
+    "static/media/Chat.svg": "/static/media/Chat.db00f888dbf072072f06ddde1fcc4abc.svg",
     "index.html": "/index.html",
-    "static/media/Exchange.svg": "/static/media/Exchange.9a86ed2feae0ae2d81a7c47078871491.svg",
-    "main.7e575ede.css.map": "/static/css/main.7e575ede.css.map",
-    "main.44bcd2e4.js.map": "/static/js/main.44bcd2e4.js.map"
+    "static/media/Exchange.svg": "/static/media/Exchange.3d31b32557eb46914c756ba1e43124f2.svg",
+    "main.f3e1bf27.css.map": "/static/css/main.f3e1bf27.css.map",
+    "main.630f4974.js.map": "/static/js/main.630f4974.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e575ede.css",
-    "static/js/main.44bcd2e4.js"
+    "static/css/main.f3e1bf27.css",
+    "static/js/main.630f4974.js"
   ]
 }
